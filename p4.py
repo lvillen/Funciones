@@ -1,6 +1,6 @@
 #Lambdas (o funciones anónimas)
 
-import sumaTodos from p2
+from p2 import sumaTodos 
 
 #Opción 1
 
